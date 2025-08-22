@@ -42,3 +42,9 @@ https://github.com
  ## FENCED CODE BLOCKS
 ``` bash
 javac *.java
+
+# Task list
+[ ] Tarea 1
+[ ] Tarea 2
+[ ] Acividad 3
+[ ] Actividad 4
