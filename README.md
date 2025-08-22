@@ -37,3 +37,7 @@ https://github.com
 > ls
 > clear
 > java Main
+>
+
+``` bash
+javac *.java
