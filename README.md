@@ -30,7 +30,7 @@ _Cursivav2_
 https://github.com
 [Pagina principal de Git](https://github.com)
 
-##BLOCKCODE
+## BLOCKQUOTES
 > javac *.java
 
 **OTROS COMANDOS**
