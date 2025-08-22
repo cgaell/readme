@@ -29,3 +29,11 @@ _Cursivav2_
 ## LINKS
 https://github.com
 [Pagina principal de Git](https://github.com)
+
+##BLOCKCODE
+> javac *.java
+
+**OTROS COMANDOS**
+> ls
+> clear
+> java Main
